@@ -1,0 +1,1 @@
+__ci_last_regenerate|i:1638873164;_ci_previous_url|s:34:"http://localhost:8080/usersprofile";logged_in|s:1:"2";_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:1:{s:11:"uploudImage";s:0:"";}}__ci_vars|a:2:{s:13:"_ci_old_input";s:3:"old";s:21:"_ci_validation_errors";s:3:"old";}_ci_validation_errors|s:58:"a:1:{s:11:"uploudImage";s:25:"Ukuran foto terlalu besar";}";
